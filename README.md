@@ -31,6 +31,7 @@
 ## 🏗️ Todo
 
 - [x] Release the image and video face swapping code
+- [ ] Delete unuseful code
 - [ ] Release the face editing code
 
 ## 🚀 Differences with [E4S(CVPR2023)](https://github.com/e4s2022/e4s)
