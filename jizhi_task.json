@@ -1,0 +1,15 @@
+{
+    "Token":"DIoCABzGk2l24INLa4Ip4Q",
+    "business_flag": "TEG_AILab_CVC_chongqing",
+    "model_local_file_path": "/apdcephfs_cq2/share_1290939/branchwang/projects/e4s/start.sh",
+    "host_num": 1,
+    "host_gpu_num": 1,
+    "GPUName": "A100",
+    "image_full_name": "mirrors.tencent.com/branchwang/face:1.0",
+    "readable_name": "swap_face",
+    "is_elasticity": true,
+    "priority_level": "LOW",
+    "elastic_level": 0,
+    "enable_evicted_end_task": true    
+
+}

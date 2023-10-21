@@ -1,0 +1,52 @@
+1, 耳朵重建（头发遮挡的）
+2，脸周围、脖子周围的白圈
+3，脖子区域blending
+4，color transfer放到inpainting前面试试
+5，不要脖子 贴回去，带上头发
+6，圈定所有区域，贴回去
+7，color transfer放GAN inversion前面
+8，更新保持脖子texture的代码
+9，额头遮挡，hole太大，inpainting结果差
+10，填充hole的逻辑和inpainting结合
+11，眼镜的case
+12，胡子的case
+
+======================================================
+
+22/11/24
+cq_2, byschen
+
+
+22/11/16
+1, faceshifter
+2, high-res (yuange)
+3, style swap
+
+
+
+
+
+22/10/27
+1, 局部warp、瘦脸
+2，脸部周围加关键点。脸部 grid 区域算loss
+3, 对比图片 update 一下，overleaf上有图片名
+4，表格值更新
+
+
+
+22/10/18
+CVPR论文补足一些实验
+1，视频demo重做一下
+2，一些较新的方法做对比
+
+
+22/10/10
+1, 对shading做warp（三角剖分，单应变换），source和target 或 swapped和target
+2，lighting transfer 测试（换脸前 or 换脸后）
+3，warp 后的 grid 保留浮点，然后做双线性插值
+
+
+22/09/23
+1, 现在这个分解方法，1）只做脸部分解（人头），2）背景不变，光照旋转，3）a 上 color transfer
+2，找一下更好的分解方法
+3，warp target 到 source 的脸型（换脸前 or 换脸后）
