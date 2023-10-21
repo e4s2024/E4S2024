@@ -51,7 +51,7 @@ export PYTHONPATH=$PWD
 
 ## 🍱 Pretrained Weights
 
-All the weights (including our E4S weights and other third_party weights) can be downloaded from [here]().
+All the weights (including our E4S weights and other third_party weights) can be downloaded from [here](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/yuang7_mail2_sysu_edu_cn/ErbjYVK4hZlDtsK8hK7REKMBldiZs2v5UddoyMIk-_2_Kw?e=WA4dQF).
 Please put all of them into `./pretrained` like this:
 
 ```shell
