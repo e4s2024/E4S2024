@@ -10,7 +10,7 @@
 [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=en&oi=ao)
 
 
-<a href='https://arxiv.org/abs/2310.15081'><img src='https://img.shields.io/badge/ArXiv-2303.09535-red'></a> 
+<a href='https://arxiv.org/abs/2310.15081'><img src='https://img.shields.io/badge/ArXiv-2310.15081-red'></a> 
 <a href='https://e4s2023.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 [![GitHub](https://img.shields.io/github/stars/e4s2023/E4S2023?style=social)](https://github.com/e4s2023/E4S2023)
 
