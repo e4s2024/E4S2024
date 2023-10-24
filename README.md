@@ -10,7 +10,7 @@
 [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=en&oi=ao)
 
 
-<a href='https://arxiv.org/abs/xxxx.xxxx'><img src='https://img.shields.io/badge/ArXiv-2303.09535-red'></a> 
+<a href='https://arxiv.org/abs/2310.15081'><img src='https://img.shields.io/badge/ArXiv-2303.09535-red'></a> 
 <a href='https://e4s2023.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 [![GitHub](https://img.shields.io/github/stars/e4s2023/E4S2023?style=social)](https://github.com/e4s2023/E4S2023)
 
@@ -125,5 +125,5 @@ Thanks to the authors for sharing their code and models.
 ## 📣 Disclaimer
 
 This is not an official product of Tencent.
-All the copyrights of the demo images and audio are from community users or the generation from stable diffusion. 
+All the copyrights of the demo images and audio are from community users. 
 Feel free to contact us if you would like remove them.
