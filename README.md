@@ -16,7 +16,7 @@
 
 
 <div align="center">
-    <img src='assets/img/fig_method.png'/>
+    <img src='assets/img/illustration_overall.png'/>
 </div>
 
 ## 🦴 Abstract
