@@ -1,4 +1,4 @@
-# E4S: Fine-Grained Face Swapping via Regional GAN Inversion (Under Review)
+# E4S: Fine-Grained Face Swapping via Regional GAN Inversion
 
 [Maomao Li](https://scholar.google.com/citations?user=ym_t6QYAAAAJ&hl=en&oi=ao), 
 [Ge Yuan](https://ygtxr1997.github.io/), 
